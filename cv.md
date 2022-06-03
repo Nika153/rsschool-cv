@@ -88,10 +88,8 @@ int main()
   
 ----------------------------------------------
 
-6. https://github.com/Nika153/rsschool-cv/gh-pages
+6. https://Nika153.github.io/rsschool-cv/cv.md
   
 7. 10 grades(in process)
   
 8. Have Cambrige sertificate om B1 level, but actualy right now Im on B2+ level. 
-  
-![моя](https://user-images.githubusercontent.com/106667107/171940288-9349d488-0d88-44ea-84d4-0522b3ed1c22.jpg)
