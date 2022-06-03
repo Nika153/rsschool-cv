@@ -92,4 +92,4 @@ int main()
   
 7. 10 grades(in process)
   
-8. Have Cambrige sertificate om B1 level, but actualy right now Im on B2+ level. 
+8. Have Cambrige sertificate on B1 level, but actualy right now Im on B2+ level. 
